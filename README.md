@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mirak-labs&show_icons=true&theme=radial"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mirak-labs&show_icons=true&theme=dark"/>
 
 </div>
 
