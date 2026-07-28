@@ -1,24 +1,46 @@
-
-<div>
-<table>
-  <tr>
-    <td colspan="2">
-     <img width="735" height="245" alt="banner" src="https://i.pinimg.com/736x/cc/34/31/cc34310aa97cc0c2b36e56ef1796a829.jpg"> 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h2>>Hey there! I'm Mirak 👋</h2>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img  width="200" src="https://i.pinimg.com/736x/34/d6/1b/34d61b7ce79abf1e6d30164589f62927.jpg">
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
-  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=240&section=header&text=Mirak&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mirak banner"/>
 </div>
 
+### About
+
+- ⌖ **Location** · Italy
+- ⟳ **Learning** · Julia
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css&theme=dark" alt="Languages"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" alt="DevOps & Cloud"/>
+
+### Languages
+- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
+- 🇮🇹 **Italian** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🇫🇷 **French** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
+- 🇸🇦 **arabic** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Mirak stats"/>
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
