@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=240&section=header&text=Mirak-labs&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mirak banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=240&section=header&text=Mirak-labs&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mirak-labs banner"/>
 </div>
 
 ### About
@@ -41,7 +41,6 @@
 <div align="center">
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=120&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
