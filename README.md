@@ -25,13 +25,13 @@
 - 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
 - 🇮🇹 **Italian** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇫🇷 **French** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
-- 🇸🇦 **arabic** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
+- 🇸🇦 **Arabic** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
 
 ### GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirak-labs&show_icons=true&theme=radial"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mirak-labs&show_icons=true&theme=radial"/>
 
 </div>
 
