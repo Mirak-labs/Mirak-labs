@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Mirak stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirak-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Mirak stats"/>
 
 </div>
 
