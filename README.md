@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=240&section=header&text=Mirak&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mirak banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=240&section=header&text=Mirak-labs&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mirak banner"/>
 </div>
 
 ### About
