@@ -27,13 +27,6 @@
 - 🇫🇷 **French** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
 - 🇸🇦 **Arabic** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mirak-labs&show_icons=true&theme=dark"/>
-
-</div>
 
 ---
 
